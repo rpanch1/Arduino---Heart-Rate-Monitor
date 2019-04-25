@@ -1,7 +1,7 @@
 # Arduino---Heart-Rate-Monitor
 Arduino Project
 
-For this project we contructed a heartbeat monitor which will calculate the bpm (beats per minute) and 
+For this project I contructed a heartbeat monitor which will calculate the bpm (beats per minute) and 
 display it onto an LCD display via Bluetooth. A heart rate sensor module is used to measure the bpm using 
 the person’s finger. An LCD display will be connected to a second Arduino which will display the bpm of the 
 person. Both Arduinos will have a Bluetooth module. The data from the heart rate sensor will be sent to the 
