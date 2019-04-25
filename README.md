@@ -9,5 +9,5 @@ other Arduino through Bluetooth module and will be displayed on the LCD connecte
 
 Materials: 2 Arduinos, 2 Bluetooth modules (HC-05), finger pulse sensor (max30105), LCD display, LED light, potentiometer, 2 breadboards, wires & resistors.
 
-There are two arduino code files. The master code is for the arduino with the finger sensor. The slave code is the is the arduino receiving the data and displaying it.
+There are two arduino code files. The master code is for the arduino with the finger sensor. The slave code is the arduino receiving the data and displaying it. So, the bluetooth should be setup in those roles.
   
