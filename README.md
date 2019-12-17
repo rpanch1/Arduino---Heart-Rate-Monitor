@@ -1,4 +1,4 @@
-# Arduino---Heart-Rate-Monitor
+# Arduino Heart-Rate-Monitor
 Arduino Project
 
 For this project I contructed a heartbeat monitor which will calculate the bpm (beats per minute) and 
